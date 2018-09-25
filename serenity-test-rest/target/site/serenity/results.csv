@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Countries search tests","Verify that we can find russia using the code RU","SUCCESS","2018-09-24T18:12:21.965+03:00[Europe/Moscow]","0.0","2.52"
+"Countries search tests","Verify that we can find USA using the code US","SUCCESS","2018-09-24T18:12:24.525+03:00[Europe/Moscow]","0.0","0.32"
+"Countries search tests","Verify that we can find india using the code IN","SUCCESS","2018-09-24T18:12:24.848+03:00[Europe/Moscow]","0.0","0.31"
+"Countries search tests with parametrs","Verify that we can find country by code","SUCCESS","2018-09-24T18:12:29.976+03:00[Europe/Moscow]","0.0","2.71"
+"Countries search tests with steps","Verify that we can find russia using the code RU","SUCCESS","2018-09-24T18:12:30.081+03:00[Europe/Moscow]","0.0","0.36"
+"Countries search tests with steps","Verify that we can find brazil country using the code BR","SUCCESS","2018-09-24T18:12:30.446+03:00[Europe/Moscow]","0.0","0.33"
+"Countries search tests with steps","Verify that we can find india country using the code IN","SUCCESS","2018-09-24T18:12:30.776+03:00[Europe/Moscow]","0.0","0.33"

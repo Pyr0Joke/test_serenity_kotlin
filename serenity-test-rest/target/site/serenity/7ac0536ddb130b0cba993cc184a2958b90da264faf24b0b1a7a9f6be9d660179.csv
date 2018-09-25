@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Countries search tests with steps","Verify that we can find russia using the code RU","SUCCESS","2018-09-24T18:12:30.081+03:00[Europe/Moscow]","0.0","0.36"
+"Countries search tests with steps","Verify that we can find brazil country using the code BR","SUCCESS","2018-09-24T18:12:30.446+03:00[Europe/Moscow]","0.0","0.33"
+"Countries search tests with steps","Verify that we can find india country using the code IN","SUCCESS","2018-09-24T18:12:30.776+03:00[Europe/Moscow]","0.0","0.33"
